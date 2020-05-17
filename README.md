@@ -10,12 +10,12 @@ alt="Tutorial Install" width="240" height="180" border="10" /></a>
 
 <hr><br>
 Command : <br> 
-me          = Mengirim Kontak Sendiri <br>
-speed       = Test Kecepatan Bot <br>
-spic <tag>  = Kirim Foto Profile yg di Tag <br>
-scover <tag>= Kirim Foto Cover yg di Tag <br>
-tagall      = Tag Semua Member dalam Group <br>
-ceksider    = Mengecek CCTV <br>
-offread     = Tampilkan CCTV <br>
+me          = Send your own contacts <br>
+speed       = Bot Speed Test <br>
+spic <tag>  = Send Profile Photos that are tagged <br>
+scover <tag>= Send Tagged Cover Photos <br>
+tagall      = Tag All Members in a Group <br>
+ceksider    = Checking the CCTV <br>
+offread     = Show CCTV<br>
 <hr>
 source : linepy by https://github.com/fadhiilrachman/
